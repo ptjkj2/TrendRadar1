@@ -1,49 +1,8 @@
 {
-  "generated_at": "2025-12-04T23:34:05.940318+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-12-05T00:40:44.335166+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "城市 新品",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "易居研究院：11月一线城市二手住宅成交套数达49033套，创下7个月新高",
-          "url": "https://wallstreetcn.com/livenews/3014857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "前11个月一线城市二手住宅累计成交突破51万套，近四年来首次",
-          "url": "https://wallstreetcn.com/livenews/3014851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "上海易居房地产研究院副院长：一线城市二手房市场将从“以价换量”逐渐走向“量价趋稳”的新阶段",
-          "url": "https://wallstreetcn.com/livenews/3014924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        }
-      ]
-    },
     {
       "keyword_group": "美食",
       "match_count": 1,
@@ -56,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[20时58分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
