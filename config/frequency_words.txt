@@ -16,6 +16,8 @@ openai
 日本
 华为
 苹果
+apple
+huawei
 小米
 +手机
 AI潮
